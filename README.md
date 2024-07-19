@@ -1,6 +1,6 @@
 # TASK-SCHEDULER
 
-    https://github.com/notthansen/Task-Scheduler.git
+        https://github.com/notthansen/Task-Scheduler.git
 
 ## Prequisites
 
@@ -18,13 +18,13 @@
         
         > For GCC use this script to compile the source code
 
-          g++ scheduler.cpp -o scheduler
+              g++ scheduler.cpp -o scheduler
 
 ## Run the compiled program
 
-     > To run the compiled program, make sure you are at the path where you specified the source code to be compiled to then run the script below
+        > To run the compiled program, make sure you are at the path where you specified the source code to be compiled to then run the script below
 
-           ./scheduler
+              ./scheduler
 
 ![image](https://github.com/user-attachments/assets/f0828743-7b85-436a-9430-fe28add47814)
 
