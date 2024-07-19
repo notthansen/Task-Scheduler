@@ -1,6 +1,6 @@
 # TASK-SCHEDULER
 
-# PREQUISITES
+# Prequisites
 
 # C++ Compiler
 
@@ -10,14 +10,14 @@
 
           sudo pacman -S gcc     
 
-# COMPILE THE CODE
+# Compile the source code
 
     - Navigate to the path where the file scheduler.cpp is located on your local device.    
     - For GCC use this script to compile the source code
 
           g++ scheduler.cpp -o scheduler
 
-# RUN THE COMPILED PROGRAM
+# Run the compiled program
 
      - To run the compiled program, make sure you are at the path where you specified the source code to be compiled to then run the script below
 
