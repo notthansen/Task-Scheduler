@@ -24,6 +24,10 @@
      - To run the compiled program, make sure you are at the path where you specified the source code to be compiled to then run the script below
 
            ./scheduler
+
+![image](https://github.com/user-attachments/assets/f0828743-7b85-436a-9430-fe28add47814)
+
+
           
   
  
