@@ -1,7 +1,4 @@
 # TASK-SCHEDULER
-
-        https://github.com/notthansen/Task-Scheduler.git
-
 ## Prequisites
 
 ### C++ Compiler
