@@ -1,4 +1,3 @@
-# TASK-SCHEDULER
 ## Prequisites
 
 ### C++ Compiler
